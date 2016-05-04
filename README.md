@@ -1,2 +1,4 @@
 # hello-world
-Just following the tutorial...
+
+This is a repository created as part of following the tutorial.
+I don't expect to use for anything really
